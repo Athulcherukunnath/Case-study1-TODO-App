@@ -3,7 +3,7 @@
    margin: 0;
 }
 body{
-    background-color: white;
+    background-color: rgb(238, 241, 26);
 }
 h1{
     color: white;
@@ -14,8 +14,9 @@ header{
 }
 .content{
     float: right;
-    border: 1px solid yellow;
-    background-color: rgb(104, 87, 87);
+    border: 1px solid rgb(4, 13, 66);
+    border-radius: 10px;
+    background-color: rgb(115, 219, 214);
     margin-top: 10%;
     margin-right: 42%;
     padding: 20px;
